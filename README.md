@@ -2,6 +2,13 @@
 
 The objective of this project is to implement three different dictionaries containing words and thier respective frequencies each contained within different data sturcture types (linked list , array , trie) and compare and compute the practical and theoretical time complexities of various operations. 
 
+Each data structure was implemented so that it could perform: 
+- **Construction**: Build a dictionary based on a given set of words and their respective frequencies 
+- **Additon**: Add a word and its frequency to the dictionary 
+- **Deletion**: Remove a specified word from the dictionary 
+- **Autocomplete**: Display the top 3 words (highest frequency) with the same prefix of a given inputted prefix 
+
+*FOR MORE DETAILED EXPLANATION OF EXPERIMENTAL SETUP PLEASE READ report.pdf*
 
 ## FILES: 
 
@@ -14,4 +21,4 @@ The objective of this project is to implement three different dictionaries conta
 - results: Contains code used to generate results table and results table itself 
 - dictionary: contains all source code for dictionaries 
 
-# How to run 
+
