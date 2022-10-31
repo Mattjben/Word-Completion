@@ -10,6 +10,8 @@ The objective of this project is to implement three different dictionaries conta
 -> USE:   `python3 dictionary_file_based.py datastructer(list/array/trie) Datafile inputcommands outputfile`   
 - dictionary_test_script.py: Code that executes dictionary file based.py and tests your code on Linux servers.   
 -> USE:  `python3 dictionary_test_script.py $PWD <approach> <data filename> <command filename1> <command filename2>`
-
+- data generation: contains all input and data files used to test code and Generation.ipynb used to create those files  
+- results: Contains code used to generate results table and results table itself 
+- dictionary: contains all source code for dictionaries 
 
 # How to run 
